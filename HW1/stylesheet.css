@@ -1,0 +1,20 @@
+body {
+    background-image: url('./images/bg_img2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    font-family: sans-serif;
+}
+
+a:hover {
+    color: #0ac4e1;
+    text-decoration: underline;
+}
+
+span.Georgia-State,
+span.Computer-Science,
+span.Google,
+span.Microsoft {
+    color: red;
+    font-weight: bold;
+}
